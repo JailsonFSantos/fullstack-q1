@@ -2,6 +2,8 @@
 
 Desafio técnico para vaga de **Desenvolvedor(a) Fullstack Júnior**, com foco em React no front-end e Node.js/Express no back-end, utilizando PostgreSQL como banco de dados relacional.
 
+*Link do Protótipo*: https://www.figma.com/design/5w4nhnYaQGVNRbjaXZUT5X/Prot%C3%B3tipo-Desafio-T%C3%A9cnico-FullStack?node-id=0-1&t=CYM7XqC5V4HrfnBQ-1
+
 ---
 
 ## 📌 Objetivo
@@ -106,5 +108,3 @@ Banco de dados recomendado: **PostgreSQL**.
 ---
 
 ## 🚀 Como rodar o projeto localmente
-
-```bash
