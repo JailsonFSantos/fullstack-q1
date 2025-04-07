@@ -106,7 +106,3 @@ Banco de dados recomendado: **PostgreSQL**.
 - Boas práticas de desenvolvimento
 - Funcionamento das rotas e componentes
 - Estilo visual básico e funcional
-
----
-
-## 🚀 Como rodar o projeto localmente
