@@ -4,6 +4,8 @@ Desafio técnico para vaga de **Desenvolvedor(a) Fullstack Júnior**, com foco e
 
 *Link do Protótipo*: https://www.figma.com/design/5w4nhnYaQGVNRbjaXZUT5X/Prot%C3%B3tipo-Desafio-T%C3%A9cnico-FullStack?node-id=0-1&t=CYM7XqC5V4HrfnBQ-1
 
+![image](https://github.com/user-attachments/assets/4400622f-bbc8-48a0-b669-29d2b9588c4e)
+
 ---
 
 ## 📌 Objetivo
