@@ -1,0 +1,31 @@
+{
+  "name": "fullstack-q1",
+  "version": "1.0.0",
+  "description": "Desafio técnico para vaga de **Desenvolvedor(a) Fullstack Júnior**, com foco em React no front-end e Node.js/Express no back-end, utilizando PostgreSQL como banco de dados relacional.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JailsonFSantos/fullstack-q1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JailsonFSantos/fullstack-q1/issues"
+  },
+  "homepage": "https://github.com/JailsonFSantos/fullstack-q1#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
