@@ -30,7 +30,12 @@ Antes de rodar o projeto, configure o PostgreSQL com as seguintes credenciais:
 Se necessário, crie o banco de dados manualmente via terminal:
 
 ```sql
-CREATE DATABASE veiculos;
+CREATE TABLE veiculos (
+    id SERIAL PRIMARY KEY,
+    nome TEXT NOT NULL,
+    placa TEXT NOT NULL,
+    status TEXT DEFAULT 'ativo'
+);
 
 Depois, configure um arquivo .env
 PORT=5000
